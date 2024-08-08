@@ -1,3 +1,3 @@
 # **_onClick_**
 
-## _Ejercicio práctico con Funciones (onclick)_
+## **_Ejercicio práctico con Funciones (onclick)_**
