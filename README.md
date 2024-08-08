@@ -1,3 +1,3 @@
 # **_onClick_**
 
-Repaso mediante un evento llamado onClick.
+_Repaso mediante un evento llamado onClick._
