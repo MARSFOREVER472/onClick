@@ -2,4 +2,4 @@
 
 ## **_Ejercicio práctico con Funciones (onclick)_**
 
-### Curso de JavaScript desde cero para principiantes:
+### _Curso de JavaScript desde cero para principiantes:_
