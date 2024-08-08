@@ -1,3 +1,3 @@
 # **_onClick_**
 
-## **_Repaso mediante un evento llamado onClick._**
+## Ejercicio práctico con Funciones (onclick)
