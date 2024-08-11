@@ -2,7 +2,7 @@
 
 ## **_Ejercicio práctico con Funciones (onclick)_**
 
-### **_Curso de JavaScript desde 0 SÓLO para principiantes:_**
+### **_Curso sencillo de JavaScript desde 0 SÓLO para principiantes:_**
 
 - **_Pongámonos a prueba todos nuestros conocimientos y realizaremos nuestro primer ejercicio práctico con funciones._**
 
