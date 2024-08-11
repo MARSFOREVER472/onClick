@@ -5,3 +5,4 @@
 ### **_Curso de JavaScript desde 0 para principiantes:_**
 
 - **_Pongámonos a prueba todos nuestros conocimientos y realizaremos nuestro primer ejercicio práctico con funciones._**
+En esta ocasión utilizaremos onclick para detectar cuando un usuario hagá clic en algún botón de nuestro sitio web.
