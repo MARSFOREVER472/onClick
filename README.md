@@ -10,4 +10,4 @@
 
 - **_Este evento ejecuta una cierta funcionalidad cuando se hace clic en un botón._**
 
-- _Esto podría ocurrir cuando un usuario envía un formulario, cuando cambias cierto contenido de la página web y otras cosas por el estilo._
+- **_Esto podría ocurrir cuando un usuario envía un formulario, cuando cambias cierto contenido de la página web y otras cosas por el estilo._**
