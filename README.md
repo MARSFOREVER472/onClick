@@ -12,4 +12,4 @@
 
 - **_Esto podría ocurrir cuando un usuario envía un formulario, cuando cambias cierto contenido de la página web y otras cosas por el estilo._**
 
-- _El evento ocurre cuando el usuario hace click en un elemento HTML._
+- **_El evento ocurre cuando el usuario hace click en un elemento HTML._**
