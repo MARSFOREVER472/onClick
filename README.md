@@ -1,6 +1,6 @@
 # **_```onClick```_**
 
-## **_Ejercicio práctico con Funciones (onclick)_**
+## **_Ejercicio práctico con Funciones (```onclick```)_**
 
 ### **_Curso sencillo de JavaScript desde 0 SÓLO para principiantes:_**
 
