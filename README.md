@@ -1,4 +1,4 @@
-# **_onClick_**
+# **_```onClick```_**
 
 ## **_Ejercicio práctico con Funciones (onclick)_**
 
