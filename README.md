@@ -4,7 +4,7 @@
 
 ### **_Curso sencillo de JavaScript desde 0 SÓLO para principiantes:_**
 
-- **_Pongámonos a prueba todos nuestros conocimientos y realizaremos nuestro primer ejercicio práctico con funciones usando JavaScript._**
+- **_Pongámonos a prueba todos nuestros conocimientos y realizaremos nuestro primer ejercicio práctico con funciones utilizandoando JavaScript._**
 
 - **_En esta ocasión utilizaremos el evento llamado ```onclick``` para poder detectar cuando un usuario cualquiera pueda hacer click en un botón de nuestro sitio web en particular._**
 
